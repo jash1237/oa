@@ -13,5 +13,5 @@ public class Result {
     private String comment;
     private String comment_user;
     private String object;
-    private int problem_id;
+    private Integer problem_id;
 }
